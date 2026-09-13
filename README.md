@@ -15,6 +15,23 @@ For the CV jacks I used the same parts as Synthux includes in some kits. They ca
 
 ![mono 3.5mm audio jack PJ301BM](img/thonk_mono_PJ301BM.jpg)
 
+## Modded version by Bay Mud - 12mm height - smaller hex fitting
+
+Community member Bay Mud ([YouTube](https://www.youtube.com/@BayMud)) has tweaked my STL further as he reported the original came out not fully fitting like he wanted.
+
+
+![alt text](img/BayMudSimpleTouchCase-col.jpg)
+
+So this is a STL without any holes at the back, open bottom, and adjusted to the height of the hex supports from the kit: 12mm. 
+Bay Mud also slimmed the hex holes to have a more tight fit.
+
+![Modded by Bay Mud Simple Touch Case 12 mm](img/BayMud_SimpleTouch12mm.png)
+The blue version is the Bay Mud stl at 12 mm vs 17mm of the green ones.
+
+[Discord link](https://discord.com/channels/802197755442626590/1433797949183492237/1493287627082961007) to the original post in the thread
+
+Later he also wanted to fit a DC barrel jack and has manually cut a hole to fit it.
+
 ## Instructions to install CV jacks
 
 TODO
